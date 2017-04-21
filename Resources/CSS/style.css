@@ -71,7 +71,7 @@ header a {
 }
 
 .lead-story .image-content {
-  background-image: url("../images/img-story-main.png");
+  background-image: url("../Images/img-story-main.png");
   width: 630px;
   margin-top: 0;
   font-size: 40px;
@@ -112,7 +112,7 @@ p {
 }
 
 .earth {
-  background-image: url("../images/fall.png");
+  background-image: url("../Images/fall.png");
 }
 
 .image-content {
@@ -131,11 +131,11 @@ p {
 }
 
 .camera {
-  background-image: url("../images/camera.png");
+  background-image: url("../Images/camera.png");
 }
 
 .cats {
-  background-image: url("../images/cats.png");
+  background-image: url("../Images/cats.png");
 }
 
 .earth, .camera, .cats {
